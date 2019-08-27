@@ -2,7 +2,7 @@
 Capacitor plugin that plays HLS video on Android via the ExoPlayer library and on iOS via AVPlayer (standard AVKit). 
 
 ```
-import {Exoplayer} from 'capacitor-video-exoplayer';
+import {Exoplayer} from 'capacitor-pm-video-exoplayer';
 
 export class ThankDawgItsNotCordovaAnyLongerPage implements OnInit { 
 
