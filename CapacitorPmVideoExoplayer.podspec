@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
     s.name = 'CapacitorPmVideoExoplayer'
-    s.version = '0.0.1'
+    s.version = '1.0.1'
     s.summary = 'Capacitor plugin for playing videos via ExoPlayer on Android and via AVPlayer on iOS. Since this is a podspec, guess which platform this is for.'
     s.license = 'MIT'
     s.homepage = 'https://github.com/petemacko/capacitor-pm-video-exoplayer'
