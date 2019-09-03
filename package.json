@@ -1,6 +1,6 @@
 {
   "name": "capacitor-pm-video-exoplayer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Capacitor plugin for playing videos via ExoPlayer on iOS and Android",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/petemacko/capacitor-exoplayer"
+    "url": "https://github.com/petemacko/capacitor-pm-video-exoplayer"
   },
   "bugs": {
-    "url": "https://github.com/petemacko/capacitor-exoplayer/issues"
+    "url": "https://github.com/petemacko/capacitor-pm-video-exoplayer/issues"
   }
 }
