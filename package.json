@@ -13,12 +13,12 @@
   "author": "Pete Macko",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "latest"
+    "@capacitor/core": "^2.4.2"
   },
   "devDependencies": {
-    "typescript": "^3.2.4",
-    "@capacitor/ios": "latest",
-    "@capacitor/android": "latest"
+    "@capacitor/android": "^2.4.2",
+    "@capacitor/ios": "^2.4.2",
+    "typescript": "^3.2.4"
   },
   "files": [
     "dist/",
