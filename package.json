@@ -1,6 +1,6 @@
 {
   "name": "capacitor-pm-video-exoplayer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Capacitor plugin for playing videos via ExoPlayer on iOS and Android",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
